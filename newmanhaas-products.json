@@ -4,69 +4,69 @@
     "nome": "Crew Firesuit Kmart",
     "preco": 200,
     "categoria": "Clothing",
-    "imgsrc": "aa"
+    "imgsrc": "https://raw.githubusercontent.com/pedroantoniosi/NewmanHaas--REPOSITORY/refs/heads/main/assets/img/shop/1.webp"
   },
   {
     "id": 2,
     "nome": "Crew Firesuit Mcdonald",
     "preco": 200,
     "categoria": "Clothing",
-    "imgsrc": "aa"
+    "imgsrc": "https://raw.githubusercontent.com/pedroantoniosi/NewmanHaas--REPOSITORY/refs/heads/main/assets/img/shop/2.webp"
   },
   {
     "id": 3,
     "nome": "T-shirt White Jersey",
     "preco": 50,
     "categoria": "Clothing",
-    "imgsrc": "aa"
+    "imgsrc": "https://raw.githubusercontent.com/pedroantoniosi/NewmanHaas--REPOSITORY/refs/heads/main/assets/img/shop/3.webp"
   },
   {
     "id": 4,
     "nome": "T-shirt Black Jersey",
     "preco": 50,
     "categoria": "Clothing",
-    "imgsrc": "aa"
+    "imgsrc": "https://raw.githubusercontent.com/pedroantoniosi/NewmanHaas--REPOSITORY/refs/heads/main/assets/img/shop/4.webp"
   },
   {
     "id": 5,
     "nome": "Decorative Frame",
     "preco": 30,
     "categoria": "Home Decor",
-    "imgsrc": "aa"
+    "imgsrc": "https://raw.githubusercontent.com/pedroantoniosi/NewmanHaas--REPOSITORY/refs/heads/main/assets/img/shop/5.webp"
   },
   {
     "id": 6,
     "nome": "Decorative Frame (3 frames)",
     "preco": 50,
     "categoria": "Home Decor",
-    "imgsrc": "aa"
+    "imgsrc": "https://raw.githubusercontent.com/pedroantoniosi/NewmanHaas--REPOSITORY/refs/heads/main/assets/img/shop/6.webp"
   },
   {
     "id": 7,
     "nome": "Decorative Frame (5 frames)",
     "preco": 70,
     "categoria": "Home Decor",
-    "imgsrc": "aa"
+    "imgsrc": "https://raw.githubusercontent.com/pedroantoniosi/NewmanHaas--REPOSITORY/refs/heads/main/assets/img/shop/7.webp"
   },
   {
     "id": 8,
     "nome": "Coffee Mug Mario Andretti",
     "preco": 10,
     "categoria": "Accessories",
-    "imgsrc": "aa"
+    "imgsrc": "https://raw.githubusercontent.com/pedroantoniosi/NewmanHaas--REPOSITORY/refs/heads/main/assets/img/shop/8.webp"
   },
   {
     "id": 9,
     "nome": "Coffee Mug Michael Andretti",
     "preco": 10,
     "categoria": "Accessories",
-    "imgsrc": "aa"
+    "imgsrc": "https://raw.githubusercontent.com/pedroantoniosi/NewmanHaas--REPOSITORY/refs/heads/main/assets/img/shop/9.webp"
   },
   {
     "id": 10,
     "nome": "Coffee Mug Christian Fittipaldi",
     "preco": 10,
     "categoria": "Accessories",
-    "imgsrc": "aa"
+    "imgsrc": "https://raw.githubusercontent.com/pedroantoniosi/NewmanHaas--REPOSITORY/refs/heads/main/assets/img/shop/10.webp"
   }
 ]
